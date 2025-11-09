@@ -8,6 +8,8 @@ We shall not be held liable for **any direct, indirect, or consequential damages
 This is a personal Nuxt starter setup I use for my own projects.  
 It may change frequently and is **not** officially supported.
 
+2025-11-09 (September 11th, 2025): Changed license to the Public License (CC0 1.0 Universal).
+
 ## Getting started
 Use [giget](https://github.com/unjs/giget) to create a new project:
 ```shell
@@ -23,4 +25,5 @@ yarn dlx giget@latest gh:mylu0x/nuxt-template <directory>
 - `app/pages/index.vue` - Home page (`/`)
 
 ## License
-© 2025 Mylu. Licensed under the MIT License.
+This project is now in the public domain (CC0 1.0 Universal).  
+You can copy, modify, distribute, and use it for any purpose, even commercially, without asking permission.
