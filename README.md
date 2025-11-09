@@ -8,7 +8,7 @@ We shall not be held liable for **any direct, indirect, or consequential damages
 This is a personal Nuxt starter setup I use for my own projects.  
 It may change frequently and is **not** officially supported.
 
-2025-11-09 (September 11th, 2025): Changed license to the Public License (CC0 1.0 Universal).
+2025-11-09 (November 9th, 2025): Changed license to CC0 1.0 Universal (Public Domain Dedication).
 
 ## Getting started
 Use [giget](https://github.com/unjs/giget) to create a new project:
