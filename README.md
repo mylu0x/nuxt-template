@@ -3,3 +3,6 @@ I created this template for my personal use, but feel free to use it however you
 
 Nuxt 4 (Icon and Fonts), Vue.js 3, and UnoCSS  
 Package manager: pnpm
+
+## License
+This project is licensed under the **CC0 1.0 Universal** License.
