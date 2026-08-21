@@ -1,7 +1,7 @@
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
-  modules: ['@nuxt/fonts', 'nuxt-icons'],
+  modules: ['@nuxt/fonts', '@nuxt/icon'],
   app: {
     head: {
       title: 'Your Title Here',
