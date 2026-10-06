@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <p>Hello, World!</p>
+  <p class="text-xl font-800">Hello, World!</p>
 </template>
 
 <style scoped>
