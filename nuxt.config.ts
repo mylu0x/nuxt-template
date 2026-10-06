@@ -19,7 +19,7 @@ export default defineNuxtConfig({
       },
     ],
   },
-  css: ['~/assets/css/global.css'],
+  css: ['~/assets/css/main.css'],
   fonts: {
     defaults: {
       weights: [400, 500, 600, 700, 800],
